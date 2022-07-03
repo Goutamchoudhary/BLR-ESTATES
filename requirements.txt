@@ -1,8 +1,8 @@
 Flask
-numpy
+numpy>=1.22
 scikit-learn==0.21.3
-scipy
-matplotlib
+scipy==1.4.1
+matplotlib==3.3.0 
 jsonpickle
 gunicorn
 itsdangerous
