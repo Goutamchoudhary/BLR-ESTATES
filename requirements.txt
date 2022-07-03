@@ -1,6 +1,6 @@
 Flask
 numpy
-scikit-learn
+scikit-learn==0.21.3
 scipy
 matplotlib
 jsonpickle
